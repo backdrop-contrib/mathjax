@@ -54,7 +54,7 @@ Credits
 -------
 MathJax: https://www.mathjax.org
 
-2013: Chris McCafferty (cilefen) https://drupal.org/u/cilefen
+2013: cilefen https://drupal.org/u/cilefen
 
 2014: P. Magunia (pmagunia) https://www.drupal.org/u/pmagunia
 
